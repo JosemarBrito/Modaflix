@@ -46,9 +46,10 @@ header nav a:hover{
 /*vestido principal*/ 
 .vestido-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/img/vestido10.jpg');
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/img/camisa5.jpg');
     height: 400px;
-    background-size: cover;
+    background-size: 400px;
+
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -109,6 +110,6 @@ header nav a:hover{
 
 }
 
-.carrossel-vestidos{
+.carrossel-camisetas{
     margin-top: 5px;
 }
