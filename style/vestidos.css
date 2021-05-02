@@ -68,7 +68,7 @@ header nav a:hover{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-.botao{
+.botao {
     background-color: rgba(0, 0, 0, 50%);
     border: none;
     color: white;
@@ -81,12 +81,18 @@ header nav a:hover{
 }
 
 .botao:hover{
-    background-color: white;
-    color: black;
+    background-color: black;
+    color: white;
 }
 
 .botao i{
     margin-right: 6px;
+}
+
+.botao a{
+    color:white;
+    text-decoration: none;
+    
 }
 
 .container{
